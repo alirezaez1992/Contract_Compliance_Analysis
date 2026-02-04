@@ -1,4 +1,4 @@
-# Manulife Interview (Alireza Esmaeilzehi)
+# Alireza Esmaeilzehi
 ## Contract Compliance Analysis using Generative AI
 
 ### Documentation
