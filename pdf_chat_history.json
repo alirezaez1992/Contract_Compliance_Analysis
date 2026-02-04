@@ -1,0 +1,13 @@
+{
+  "pdf": "Sample Contract.pdf",
+  "history": [
+    {
+      "role": "user",
+      "content": "Does it mention TLS 1.2?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes"
+    }
+  ]
+}
