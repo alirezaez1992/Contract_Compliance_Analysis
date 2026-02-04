@@ -2,7 +2,7 @@
 ## Contract Compliance Analysis using Generative AI
 
 ### Documentation
-Detailed information about the project is provided in `Doc.pdf`. Please refer to it for more details.
+Detailed information about the project is provided in `Doc.pdf` (please download it). Please refer to it for more details.
 
 All the developments have been conducted on Google Colab with NVIDIA A100 (40 GB) GPU. 
 
